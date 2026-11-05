@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://petludos-web.github.io/Petludos/sitemap.xml
